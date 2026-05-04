@@ -25,6 +25,7 @@ Suma ← A + B
 Escribir Suma
 Fin
 
+
 ---
 
 ## 💻 Codificación (Lenguaje C)
