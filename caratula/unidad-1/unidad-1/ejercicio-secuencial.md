@@ -16,12 +16,12 @@ Desarrollar un programa que permita calcular la suma de dos números ingresados 
 ## 🧠 Diseño del algoritmo
 
 ### Pseudocódigo
-Inicio
-Leer A
-Leer B
-Suma = A + B
-Escribir Suma
-Fin
+-Inicio
+-Leer A
+-Leer B
+-Suma = A + B
+-Escribir Suma
+-Fin
 
 
 ---
