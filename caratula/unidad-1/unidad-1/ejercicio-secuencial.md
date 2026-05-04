@@ -1,4 +1,7 @@
 # Ejercicio con estructura secuencial
+---
+
+## 📚 Desarrollo de actividades
 
 ## 🧩 Planteamiento del problema
 Desarrollar un programa que permita calcular la suma de dos números ingresados por el usuario.
