@@ -23,7 +23,7 @@ Leer A
 Leer B
 Suma ← A + B
 Escribir Suma
-Fin´´´
+Fin
 
 ---
 
