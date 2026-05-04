@@ -15,15 +15,22 @@ Desarrollar un programa que permita calcular la suma de dos números ingresados 
 
 ## 🧠 Diseño del algoritmo
 
-### Pseudocódigo
+### Pseudocódigo (PSeInt)
 
-```text
-Inicio
-Leer A
-Leer B
-Suma ← A + B
-Escribir Suma
-Fin
+```pseudocode
+Proceso SumaDeDosNumeros
+    Definir A, B, Suma Como Real
+    
+    Escribir "Ingrese el primer número:"
+    Leer A
+    
+    Escribir "Ingrese el segundo número:"
+    Leer B
+    
+    Suma <- A + B
+    
+    Escribir "La suma es: ", Suma
+FinProceso
 
 
 ---
