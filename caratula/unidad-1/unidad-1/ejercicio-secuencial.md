@@ -15,45 +15,23 @@ Desarrollar un programa que permita calcular la suma de dos números ingresados 
 
 ## 🧠 Diseño del algoritmo
 
+### 📊 Diagrama de flujo
+
+<p align="center">
+  <img src="../recursos/imagenes/diagrama-flujo.jpg" width="400">
+</p>
+
 ### Pseudocódigo (PSeInt)
 
-```pseudocode
-Proceso SumaDeDosNumeros
-    Definir A, B, Suma Como Real
-    
-    Escribir "Ingrese el primer número:"
-    Leer A
-    
-    Escribir "Ingrese el segundo número:"
-    Leer B
-    
-    Suma <- A + B
-    
-    Escribir "La suma es: ", Suma
-FinProceso
+### 📷 Pseudocódigo (evidencia)
 
+<p align="center">
+  <img src="../recursos/imagenes/pseudocodigo.jpg" width="400">
+</p>
 
 ---
 
 ## 💻 Codificación (Lenguaje C)
 
-```c
-#include <stdio.h>
-
-int main() {
-    float A, B, suma;
-
-    printf("Ingrese el primer número: ");
-    scanf("%f", &A);
-
-    printf("Ingrese el segundo número: ");
-    scanf("%f", &B);
-
-    suma = A + B;
-
-    printf("La suma es: %.2f", suma);
-
-    return 0;
-}
 
 
