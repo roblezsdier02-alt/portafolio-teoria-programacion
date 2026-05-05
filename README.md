@@ -29,6 +29,7 @@ Desarrollar habilidades de razonamiento lógico y pensamiento computacional medi
 * [Unidad 1 – Contenidos](caratula/unidad-1/contenidos.md)
 * [Unidad 1 – Ejercicio Secuencial](caratula/unidad-1/ejercicio-secuencial.md)
 * [Reflexión](caratula/unidad-1/unidad-1/unidad-1/reflexion.md)
+*  [Declaración de IA](declaracion-ia.md)
 * [Bibliografía](bibliografia.md)
 
 
