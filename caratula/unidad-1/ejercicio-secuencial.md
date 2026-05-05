@@ -19,16 +19,19 @@ Desarrollar un programa que permita calcular la suma de dos números ingresados 
 ## 🧠 Diseño del algoritmo
 
 ### 📊 Diagrama de flujo
-<img width="571" height="922" alt="Captura de pantalla 2026-05-04 010640" src="https://github.com/user-attachments/assets/bb23f67f-3d71-42d2-b34a-693d2315a815" />
+<img width="571" height="922" alt="Diagrama de flujo" src="https://github.com/user-attachments/assets/28b4f4a3-2a98-4950-bbd8-321bb40a59e0" />
 
 
 ### Pseudocódigo (PSeInt)
+<img width="615" height="503" alt="Pseudocodigo" src="https://github.com/user-attachments/assets/e2e01ac2-233a-464a-aac2-0dd089c021ed" />
+
+
 
 ### 📷 Pseudocódigo (evidencia)
+<img width="605" height="360" alt="Pseudocódigo (evidencia)" src="https://github.com/user-attachments/assets/6f53067a-d700-4f66-ac88-857c930d857a" />
 
-<p align="center">
-  <img src="../recursos/imagenes/pseudocodigo.jpg" width="400">
-</p>
+
+
 
 | A | B | Resultado |
 |---|---|----------|
@@ -36,7 +39,6 @@ Desarrollar un programa que permita calcular la suma de dos números ingresados 
 
 
 ---
-
 
 ## 💻 Codificación (Lenguaje C)
 
@@ -57,5 +59,6 @@ int main() {
     printf("La suma es: %.2f", suma);
 
     return 0;
+
 }
 
