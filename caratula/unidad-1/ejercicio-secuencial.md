@@ -19,10 +19,8 @@ Desarrollar un programa que permita calcular la suma de dos números ingresados 
 ## 🧠 Diseño del algoritmo
 
 ### 📊 Diagrama de flujo
+<img width="571" height="922" alt="Captura de pantalla 2026-05-04 010640" src="https://github.com/user-attachments/assets/bb23f67f-3d71-42d2-b34a-693d2315a815" />
 
-<p align="center">
-  <img src="../recursos/imagenes/diagrama-flujo.jpg" width="400">
-</p>
 
 ### Pseudocódigo (PSeInt)
 
