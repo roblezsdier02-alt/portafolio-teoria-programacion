@@ -1,4 +1,4 @@
-# 🎓 Portafolio de Teoría de la Programación
+# Portafolio de Teoría de la Programación
 
 ---
 
@@ -10,7 +10,7 @@ A lo largo del curso, se han aplicado conceptos fundamentales como la lógica bo
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 ### Objetivo general
 Desarrollar habilidades de razonamiento lógico y pensamiento computacional mediante la resolución de problemas y el diseño de algoritmos.
