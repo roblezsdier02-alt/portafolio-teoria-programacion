@@ -12,16 +12,16 @@ A lo largo del curso, se han aplicado conceptos fundamentales como la lógica bo
 *   **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables
 *   **Carrera:** Computación
 *   **Asignatura:** Teoría de la Programación
-*   **Ciclo:** [Inserta tu ciclo, ej: Segundo Ciclo]
-*   **Período Académico:** [Inserta el período, ej: Abril - Agosto 2026]
-*   **Docente:** [Nombre de tu Ingeniero/a / Docente]
-*   **Estudiante:** [Tu Nombre Completo]
+*   **Ciclo:** Primer Ciclo
+*   **Período Académico:** Abril – Agosto 2026
+*   **Docente:** Lissette Geoconda Lopéz Faican
+*   **Estudiante:** Sdier Emanuel Roblez Roblez
 
 ---
 
 ## 🗺️ Índice de Contenidos
 
-*   [📂 Unidad 1](./Unidad-1/) - [
+*   [📂 Unidad 1](./Unidad-1/) - 
 *   [📂 Unidad 2](./Unidad-2/) - Estructuras Condicionales y Repetitivas (En desarrollo)
 
 ---
