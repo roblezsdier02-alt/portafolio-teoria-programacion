@@ -23,7 +23,7 @@ Desarrollar habilidades de razonamiento lógico y pensamiento computacional medi
 - Implementar soluciones en lenguaje C  
 
 
-- ## 📂 Contenido
+- ## 📂 Contenido Unidad 1
 
 * [Carátula](caratula/caratula.md)
 * [Unidad 1 – Contenidos](caratula/unidad-1/contenidos.md)
