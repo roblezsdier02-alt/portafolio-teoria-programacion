@@ -1,4 +1,4 @@
-# Portafolio de Teoría de la Programación
+# Portafolio Digital de Aprendizaje - Teoría de la Programación
 
 ---
 
@@ -7,29 +7,32 @@
 Este portafolio recopila las actividades, ejercicios y evidencias desarrolladas durante la asignatura de **Teoría de la Programación**. Su propósito es demostrar el aprendizaje adquirido en lógica computacional, resolución de problemas y diseño de algoritmos.
 
 A lo largo del curso, se han aplicado conceptos fundamentales como la lógica booleana, estructuras de control y razonamiento lógico, los cuales son esenciales para el desarrollo de software.
+## 🏢 Carátula Informativa
+*   **Institución:** Universidad Nacional de Loja (UNL)
+*   **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables
+*   **Carrera:** Computación
+*   **Asignatura:** Teoría de la Programación
+*   **Ciclo:** [Inserta tu ciclo, ej: Segundo Ciclo]
+*   **Período Académico:** [Inserta el período, ej: Abril - Agosto 2026]
+*   **Docente:** [Nombre de tu Ingeniero/a / Docente]
+*   **Estudiante:** [Tu Nombre Completo]
 
 ---
 
-##  Objetivos
+## 🗺️ Índice de Contenidos
 
-### Objetivo general
-Desarrollar habilidades de razonamiento lógico y pensamiento computacional mediante la resolución de problemas y el diseño de algoritmos.
+*   [📂 Unidad 1](./Unidad-1/) - [
+*   [📂 Unidad 2](./Unidad-2/) - Estructuras Condicionales y Repetitivas (En desarrollo)
 
+---
 
-### Objetivos específicos
-- Comprender los fundamentos de la lógica booleana  
-- Aplicar operadores lógicos en la resolución de problemas  
-- Diseñar algoritmos en pseudocódigo y diagramas de flujo  
-- Implementar soluciones en lenguaje C  
+## 🤖 Declaración de Uso de la Inteligencia Artificial Generativa
+> **Nota de Honestidad Académica:** En cumplimiento con las directrices de la asignatura, se declara que se utilizaron herramientas de IA Generativa (como Gemini de Google) bajo el rol de **tutor de acompañamiento**. Su uso se limitó al soporte técnico para el diseño de la estructura del portafolio en Markdown, la revisión de buenas prácticas de organización en GitHub y como recurso de refuerzo para consolidar los conceptos lógicos de las estructuras de control abordadas en clase.
 
+---
 
-- ## 📂 Contenido Unidad 1
+## 📚 Bibliografía (Formato IEEE)
 
-* [Carátula](caratula/caratula.md)
-* [Unidad 1 – Contenidos](caratula/unidad-1/contenidos.md)
-* [Unidad 1 – Ejercicio Secuencial](caratula/unidad-1/ejercicio-secuencial.md)
-* [Reflexión](caratula/unidad-1/unidad-1/unidad-1/reflexion.md)
-*  [Declaración de IA](caratula/unidad-1/unidad-1/unidad-1/declaracion-ia.md)
-* [Bibliografía](caratula/unidad-1/unidad-1/unidad-1/bibliografia.md)
-
-
+[1] J. Doe, *Fundamentos de Programación y Estructuras de Control*, 2da ed. Loja, Ecuador: Editorial Universitaria, 2021.
+[2] A. B. Smith, "Lógica de programación: de los diagramas de flujo al código fuente," *Revista Iberoamericana de Computación*, vol. 14, no. 2, pp. 45-52, En. 2023.
+[3] [Agrega aquí el libro guía o las diapositivas que les dio el docente en clase siguiendo el formato de arriba, asegurando que sea del año >= 2020].
