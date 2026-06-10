@@ -7,7 +7,7 @@
 Este portafolio recopila las actividades, ejercicios y evidencias desarrolladas durante la asignatura de **Teoría de la Programación**. Su propósito es demostrar el aprendizaje adquirido en lógica computacional, resolución de problemas y diseño de algoritmos.
 
 A lo largo del curso, se han aplicado conceptos fundamentales como la lógica booleana, estructuras de control y razonamiento lógico, los cuales son esenciales para el desarrollo de software.
-## 🏢 Carátula Informativa
+##  Carátula Informativa
 *   **Institución:** Universidad Nacional de Loja (UNL)
 *   **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables
 *   **Carrera:** Computación
@@ -26,7 +26,7 @@ A lo largo del curso, se han aplicado conceptos fundamentales como la lógica bo
 
 ---
 
-## 🤖 Declaración de Uso de la Inteligencia Artificial Generativa
+## Declaración de Uso de la Inteligencia Artificial Generativa
 > **Nota de Honestidad Académica:** En cumplimiento con las directrices de la asignatura, se declara que se utilizaron herramientas de IA Generativa (como Gemini de Google) bajo el rol de **tutor de acompañamiento**. Su uso se limitó al soporte técnico para el diseño de la estructura del portafolio en Markdown, la revisión de buenas prácticas de organización en GitHub y como recurso de refuerzo para consolidar los conceptos lógicos de las estructuras de control abordadas en clase.
 
 ---
