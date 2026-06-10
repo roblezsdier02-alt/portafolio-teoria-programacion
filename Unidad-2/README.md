@@ -45,7 +45,8 @@ Las estructuras condicionales permiten bifurcar el flujo de ejecución de un pro
     ```
 * **Esquema en Diagrama de Flujo:**
     Para asegurar una correcta representación visual del flujo lógico y la bifurcación, se anexa el siguiente diagrama estándar:
-    ![Diagrama de Flujo - Estructura Condicional](diagramas/condicionales.png)
+<img width="1024" height="932" alt="image" src="https://github.com/user-attachments/assets/836e445c-1e7c-4068-82df-ed370dd2694e" />
+
 
 ---
 
