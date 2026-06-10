@@ -91,7 +91,8 @@ Desarrollar un programa en lenguaje C que genere y muestre los términos de la s
 ### 📐 Diseño del Algoritmo (Diagrama de Flujo)
 [cite_start]Este es el diseño gráfico del algoritmo, el cual se renderiza directamente a continuación:
 
-![Diagrama de Flujo del Ejercicio](diagramas/ejercicio_integrador.png)
+![Diagrama de Flujo del Ejercicio](<img width="1024" height="1536" alt="ejercicio_integrador" src="https://github.com/user-attachments/assets/e5a513a6-9b2e-4600-94cb-e1c1825c643f" />
+)
 
 ### 💻 Codificación (Código Fuente)
 [cite_start]Implementación limpia y corregida en lenguaje C para el cálculo de la serie:
