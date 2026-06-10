@@ -71,7 +71,7 @@ Las estructuras repetitivas, comúnmente denominadas ciclos o bucles, permiten e
     ```
 * **Esquema en Diagrama de Flujo:**
     A continuación, se detaria la representación gráfica del ciclo iterativo, ilustrando cómo el flujo regresa al punto de evaluación de la condición:
-    ![Diagrama de Flujo - Estructura Repetitiva](diagramas/repetitivas.png)
+    <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f02092cb-1ebe-4b6c-865d-655f92c80e7e" />
 
 ---
 
