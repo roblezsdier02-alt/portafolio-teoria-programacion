@@ -129,9 +129,10 @@ int main() {
     return 0;
 }
 
-### Prueba de escritorio
 
+### 🧪 Validación (Prueba de Escritorio)
+
+Para comprobar el correcto funcionamiento del algoritmo y demostrar la robustez de los ciclos de validación anidados, se realiza una simulación lógica interactiva paso a paso:
 Entrada: n = 5
 Salida: 1, 2, 3, 5
-<img width="947" height="278" alt="image" src="https://github.com/user-attachments/assets/31c92d3e-ac18-43b7-bd95-42e88d1e8621" />
-
+<img width="947" height="278" alt="image" src="https://github.com/user-attachments/assets/268a36de-31ad-43b9-8997-85bc5b576589" />
