@@ -83,7 +83,7 @@ Las estructuras repetitivas, comúnmente denominadas ciclos o bucles, permiten e
 Desarrollar un programa en lenguaje C que genere y muestre los términos de la sucesión de Fibonacci hasta una posición de término $n$ ingresada por el usuario. El programa debe validar de forma iterativa que el número ingresado no sea negativo. [cite_start]Si el término solicitado es 0 o 1, el sistema debe imprimir directamente los valores base (0 y 1 respectivamente); para términos mayores, debe calcular la serie sumando los dos valores antecesores correspondientes.
 
 ### 🔍 Análisis del Problema
-* [cite_start]**Datos de entrada:** Variable entera `n` (posición del término deseado).
+**Datos de entrada:** Variable entera `n` (posición del término deseado).
 * [cite_start]**Proceso:** 1. Utilizar un ciclo repetitivo `do-while` para forzar la lectura del número hasta que `n` sea un valor mayor o igual a 0.
     2. [cite_start]Evaluar el valor de `n` mediante una estructura condicional múltiple (`if - else if - else`) para discriminar los casos base.
     3. [cite_start]Si `n > 1`, emplear un ciclo iterativo `for` controlado por la variable `cont` (que arranca en 2 hasta llegar a `n`) para calcular y actualizar dinámicamente los términos antecesores (`anta` y `antb`) y sumarlos.
