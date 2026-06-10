@@ -1,4 +1,4 @@
-# Unidad 2: Estructuras de Control de 
+# Unidad 2: Estructuras de Control de Flujo
 
 ## 📝 Introducción
 En el desarrollo de software, la secuencialidad lineal de las instrucciones no siempre es suficiente para resolver problemas del mundo real. Para construir algoritmos verdaderamente inteligentes y dinámicos, es indispensable alterar el orden de ejecución en función de los datos. 
