@@ -128,3 +128,10 @@ int main() {
 
     return 0;
 }
+
+### Prueba de escritorio
+
+Entrada: n = 5
+Salida: 1, 2, 3, 5
+<img width="947" height="278" alt="image" src="https://github.com/user-attachments/assets/31c92d3e-ac18-43b7-bd95-42e88d1e8621" />
+
