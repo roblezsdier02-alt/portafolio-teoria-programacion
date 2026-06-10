@@ -9,7 +9,7 @@ Esta unidad abarca el estudio y aplicación de las **Estructuras de Control de F
 
 ## 🗂️ ¿Qué contiene esta unidad?
 
-[cite_start]Este apartado del portafolio funciona como un registro de aprendizaje práctico y teórico, organizado bajo las siguientes secciones requeridas por el plan de la asignatura:
+Este apartado del portafolio funciona como un registro de aprendizaje práctico y teórico, organizado bajo las siguientes secciones requeridas por el plan de la asignatura:
 
 1. **Estructuras Condicionales:** Marco teórico sobre los tipos de condicionales (simples, dobles y múltiples), detallando su respectiva representación en pseudocódigo y esquemas gráficos mediante diagramas de flujo.
 2. **Estructuras Repetitivas:** Análisis detallado de los bucles lógicos más utilizados (ciclos condicionados y ciclos por contador), junto con su modelado gráfico y estructural.
@@ -25,7 +25,7 @@ Esta unidad abarca el estudio y aplicación de las **Estructuras de Control de F
 
 ## 1. Estructuras Condicionales
 
-Las estructuras condicionales permiten bifurcar el flujo de ejecución de un programa basándose en la evaluación de una condición lógica (booleana). [cite_start]Dependiendo de si la condición es verdadera o falsa, el algoritmo tomará un camino u otro.
+Las estructuras condicionales permiten bifurcar el flujo de ejecución de un programa basándose en la evaluación de una condición lógica (booleana). Dependiendo de si la condición es verdadera o falsa, el algoritmo tomará un camino u otro.
 
 ### 🔹 Tipos de Estructuras Condicionales:
 1. **Simples (Si-Entonces / If):** Evalúan una condición y ejecutan un bloque de instrucciones únicamente si el resultado es verdadero. Si es falso, el programa continúa de forma lineal.
@@ -77,25 +77,25 @@ Las estructuras repetitivas, comúnmente denominadas ciclos o bucles, permiten e
 
 ## 3. Ejercicio Integrador (Condicional Múltiple + Estructuras Repetitivas)
 
-[cite_start]A continuación, se detalla el desarrollo práctico de la actividad integradora de la unidad, aplicando las estructuras de decisión y los ciclos estudiados en la asignatura.
+A continuación, se detalla el desarrollo práctico de la actividad integradora de la unidad, aplicando las estructuras de decisión y los ciclos estudiados en la asignatura.
 
 ### 📝 Planteamiento del Problema
 Desarrollar un programa en lenguaje C que genere y muestre los términos de la sucesión de Fibonacci hasta una posición de término $n$ ingresada por el usuario. El programa debe validar de forma iterativa que el número ingresado no sea negativo. [cite_start]Si el término solicitado es 0 o 1, el sistema debe imprimir directamente los valores base (0 y 1 respectivamente); para términos mayores, debe calcular la serie sumando los dos valores antecesores correspondientes.
 
 ### 🔍 Análisis del Problema
 **Datos de entrada:** Variable entera `n` (posición del término deseado).
-* [cite_start]**Proceso:** 1. Utilizar un ciclo repetitivo `do-while` para forzar la lectura del número hasta que `n` sea un valor mayor o igual a 0.
-    2. [cite_start]Evaluar el valor de `n` mediante una estructura condicional múltiple (`if - else if - else`) para discriminar los casos base.
-    3. [cite_start]Si `n > 1`, emplear un ciclo iterativo `for` controlado por la variable `cont` (que arranca en 2 hasta llegar a `n`) para calcular y actualizar dinámicamente los términos antecesores (`anta` y `antb`) y sumarlos.
-* [cite_start]**Datos de salida:** Impresión en consola de los términos de la serie calculados de forma secuencial.
+**Proceso:** 1. Utilizar un ciclo repetitivo `do-while` para forzar la lectura del número hasta que `n` sea un valor mayor o igual a 0.
+    2. Evaluar el valor de `n` mediante una estructura condicional múltiple (`if - else if - else`) para discriminar los casos base.
+    3. Si `n > 1`, emplear un ciclo iterativo `for` controlado por la variable `cont` (que arranca en 2 hasta llegar a `n`) para calcular y actualizar dinámicamente los términos antecesores (`anta` y `antb`) y sumarlos.
+**Datos de salida:** Impresión en consola de los términos de la serie calculados de forma secuencial.
 
 ### 📐 Diseño del Algoritmo (Diagrama de Flujo)
-[cite_start]Este es el diseño gráfico del algoritmo, el cual se renderiza directamente a continuación:
+Este es el diseño gráfico del algoritmo, el cual se renderiza directamente a continuación:
 <img width="1024" height="1536" alt="ejercicio_integrador" src="https://github.com/user-attachments/assets/401558ce-d9a5-439e-b000-ef492d6be256" />
 
 
 ### 💻 Codificación (Código Fuente)
-[cite_start]Implementación limpia y corregida en lenguaje C para el cálculo de la serie:
+Implementación limpia y corregida en lenguaje C para el cálculo de la serie:
 
 ```c
 #include <stdio.h>
