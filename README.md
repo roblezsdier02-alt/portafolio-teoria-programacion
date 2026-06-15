@@ -15,7 +15,7 @@ A lo largo del curso, se han aplicado conceptos fundamentales como la lógica bo
 
 ## 🗺️ Índice de Contenidos
 
-*   [📂 Unidad 1](./portafolio-teoria-programacion/tree/main/Unidad-2/) - Lenguajes de programación
+*   [📂 Unidad 1](./caratula/unidad-1/) - Lenguajes de programación
 *   [📂 Unidad 2](./Unidad-2/) - Estructuras Condicionales y Repetitivas (En desarrollo)
 
 ---
