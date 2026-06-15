@@ -21,7 +21,7 @@ A lo largo del curso, se han aplicado conceptos fundamentales como la lógica bo
 ---
 
 ## Declaración de Uso de la Inteligencia Artificial Generativa
-> **Nota de Honestidad Académica:** En cumplimiento con las directrices de la asignatura, se declara que se utilizaron herramientas de IA Generativa (como Gemini de Google) bajo el rol de **tutor de acompañamiento**. Su uso se limitó al soporte técnico para el diseño de la estructura del portafolio en Markdown, la revisión de buenas prácticas de organización en GitHub y como recurso de refuerzo para consolidar los conceptos lógicos de las estructuras de control abordadas en clase.
+ **Nota de Honestidad Académica:** En cumplimiento con las directrices de la asignatura, se declara que se utilizaron herramientas de IA Generativa (como Gemini de Google) bajo el rol de **tutor de acompañamiento**. Su uso se limitó al soporte técnico para el diseño de la estructura del portafolio en Markdown, la revisión de buenas prácticas de organización en GitHub y como recurso de refuerzo para consolidar los conceptos lógicos de las estructuras de control abordadas en clase.
 
 ---
 
