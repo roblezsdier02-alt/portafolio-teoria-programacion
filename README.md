@@ -8,20 +8,14 @@ Este portafolio recopila las actividades, ejercicios y evidencias desarrolladas 
 
 A lo largo del curso, se han aplicado conceptos fundamentales como la lógica booleana, estructuras de control y razonamiento lógico, los cuales son esenciales para el desarrollo de software.
 ##  Carátula Informativa
-*   **Institución:** Universidad Nacional de Loja (UNL)
-*   **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables
-*   **Carrera:** Computación
-*   **Asignatura:** Teoría de la Programación
-*   **Ciclo:** Primer Ciclo
-*   **Período Académico:** Abril – Agosto 2026
-*   **Docente:** Lissette Geoconda Lopéz Faican
-*   **Estudiante:** Sdier Emanuel Roblez Roblez
+<img width="703" height="980" alt="WhatsApp Image 2026-06-15 at 10 59 33 AM" src="https://github.com/user-attachments/assets/e153fb08-9c1f-434f-834b-8710285391b5" />
+
 
 ---
 
 ## 🗺️ Índice de Contenidos
 
-*   [📂 Unidad 1](./Unidad-1/) - 
+*   [📂 Unidad 1](./Unidad-1/) - Lenguajes de programación
 *   [📂 Unidad 2](./Unidad-2/) - Estructuras Condicionales y Repetitivas (En desarrollo)
 
 ---
