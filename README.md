@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Introducción
+##  Introducción
 
 Este portafolio recopila las actividades, ejercicios y evidencias desarrolladas durante la asignatura de **Teoría de la Programación**. Su propósito es demostrar el aprendizaje adquirido en lógica computacional, resolución de problemas y diseño de algoritmos.
 
@@ -25,7 +25,7 @@ A lo largo del curso, se han aplicado conceptos fundamentales como la lógica bo
 
 ---
 
-## 📚 Bibliografía (Formato IEEE)
+## Bibliografía (Formato IEEE)
 
 [1] J. Doe, *Fundamentos de Programación y Estructuras de Control*, 2da ed. Loja, Ecuador: Editorial Universitaria, 2021.
 [2] A. B. Smith, "Lógica de programación: de los diagramas de flujo al código fuente," *Revista Iberoamericana de Computación*, vol. 14, no. 2, pp. 45-52, En. 2023.
